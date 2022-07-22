@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+}
+.navbar a{
+    display: flex;
+    gap:5px;
+    font-size: larger;
+    
+}
+#navbarimg{
+    max-width: 40px;
+    min-width: 30px;
+}
+.navbar ul {
+    display: flex;
+     gap:20px;
+    
+}
+.container-navbar{
+    display: flex;
+    gap:10px
+}
+@media screen and (max-width:561px) {
+    .container-navbar{
+        display: block;
+    }
+}

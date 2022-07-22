@@ -5,8 +5,8 @@ export default function navbar() {
    <>
    <div className='navbar'>
     <div class='container-navbar '>
-      <a href='/' style={{color:'white',textDecoration:'none'  , listStyle:'none'}}> <img id='navbarimg' src='https://play-lh.googleusercontent.com/jbHYnlXZ8lQJ42BrJ6vGwY--UYHYy4LzqACxi1FWmMPQ0cw3rAWHgQIl6AuhQR0UpVo' alt='logo'/>
-      BMI Calculator  </a>
+      <a href='/' style={{color:'white',textDecoration:'none'  , listStyle:'none'}}> <img id='navbarimg' src='https://www.pngitem.com/pimgs/m/266-2667252_transparent-rock-paper-scissors-clipart-rock-paper-scissors.png' alt='logo'/>
+      RPS </a>
         <ul>
             <li className='li-nav' ><a style={{color:'white',textDecoration:'none'  , listStyle:'none'}} href='/' >Home</a></li>
             <li className='li-nav' ><a style={{color:'white',textDecoration:'none'  , listStyle:'none'}} href='/'>Contact Us</a></li>
